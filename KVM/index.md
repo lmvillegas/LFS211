@@ -1,4 +1,4 @@
-# 1 INTRODUCTION TO RED HAT VIRTUALIZATION PRODUCTS AND FEATURES
+# 1 INTRODUCCION A VIRTUALIZACION EN RED HAT Y SUS CARACTERISTICAS
 
 Este Capitulo describe los productos principales y sus caracteristicas disponibles en Red Hat Enterprise Linux 7.
 
