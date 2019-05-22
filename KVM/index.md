@@ -6,7 +6,7 @@ Este Capitulo describe los productos principales y sus caracteristicas disponibl
 
 KVM (Kernel-based Virtual Machine) es una solución para linux en una gran variedad de infraestructuras. Esta integrado en el Kernel standar de Red Hat, Centos, Fedora y Oracle Linux e integrado con el Quick Emulator (QEMU), y puede utilizar multiples sistemas operativos invitados. El KVM hypervisor en Red Hat es maneajado por libvirt API, y herramientas construidas para libvirt (como virt-manager y virsh). las maquinas virtuales son ejecutadas com procesos controladas por estas herramientas.
 
-```markdown
+```Code
 Advertencia!!!
 
 **QEMU** y **lirvirt** tambien es soportado por el modo de traducción dinámica utilizando 
