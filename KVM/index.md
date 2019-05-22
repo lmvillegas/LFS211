@@ -9,7 +9,8 @@ KVM (Kernel-based Virtual Machine) es una solución para linux en una gran varie
 ```Code
 Advertencia!!!
 
-**QEMU** y **lirvirt** tambien es soportado por el modo de traducción dinámica utilizando 
+**QEMU** y **lirvirt** tambien es soportado por el modo de 
+traducción dinámica utilizando 
 el Generador de código minúsculo QEMU(TCG). 
 
 ```
